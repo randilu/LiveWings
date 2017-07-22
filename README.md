@@ -2,7 +2,8 @@
 # 1.run the ballerina service file
   flightTrackerSerive.bal
 # 2.then open the index.html and enter a callsign for search a flight
-  index.html
+ 
+  
 This is web app which monitors live air traffic.This allows you to track your loved ones, in flights which would allow a customized search, which displays all the vital information of the flight such as the location, speed, position on the map.
 
 This ballerina service file have connected to two API's.
